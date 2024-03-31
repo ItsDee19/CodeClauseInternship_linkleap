@@ -1,0 +1,13 @@
+.shared-links {
+    margin-bottom: 20px;
+  }
+  
+  .shared-links ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .shared-links li {
+    margin-bottom: 5px;
+  }
+  
